@@ -1,0 +1,31 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.fa-trash-o{
+  font-size:20px !important;
+  color: #5f6061 !important;  
+  cursor: pointer !important;
+}
+.fa-pencil{
+  font-size:17px !important;
+  color: #5f6061 !important;
+  cursor: pointer !important;
+
+}
+.jumbotron {
+  padding: 4rem 18rem !important;
+}
+
+.modal-header{
+  justify-content: center !important;
+}
